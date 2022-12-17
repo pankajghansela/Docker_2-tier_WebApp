@@ -1,4 +1,4 @@
-# Building an App + DB with Docker and CI/CD with Jenkins
+# Building a 2-tier web app + DB with Docker and CI/CD with Jenkins
 
  The purpose is to simulate development of a JS, Nodejs application to execute a CI/CD pipeline using Jenkins and connect the app with MongoDB (combined with MongoExpress) for database using Docker container 
 
