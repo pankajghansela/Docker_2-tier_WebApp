@@ -1,6 +1,6 @@
 # Building a 2-tier JS web app + DB with Docker and CI/CD with Jenkins
 
- The purpose is to simulate development of a 2-tier JS, MongoDB (+MongoExpress for DB) application in the local env. and continuously deploying the changes in the local dev env. to a testing server using Jenkins and deploying the containerized app in the testing env. using Docker 
+ The purpose is to simulate development of a 2-tier JS, MongoDB (+MongoExpress for DB) application in the local env. and continuously deploying the changes in the local env. of a testing server using Jenkins and deploying the containerized app in the testing env. using Docker 
 
  Overall Workflow: 
  (A schematic representation available in "Overall_Architecture.jpg") 
